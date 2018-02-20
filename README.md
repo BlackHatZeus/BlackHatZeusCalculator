@@ -1,2 +1,0 @@
-# BlackHatZeusCalculator
-My Calculator Testing
