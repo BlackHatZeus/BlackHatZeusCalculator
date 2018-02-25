@@ -200,7 +200,9 @@ Subtraction = False
 Multiplication = False
 Division = False
 
-'#Funtions of Symbols'
+'#Funtions for Buttons'
+
+'#Reset, Resets the App'
 
 
 def reset():
